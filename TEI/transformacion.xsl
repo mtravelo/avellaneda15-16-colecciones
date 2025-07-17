@@ -143,9 +143,9 @@
     </xsl:template>
 
         <xsl:template match="//pb">
-        <p class="folio"> 
+        <span class="folio"> 
             Folio: <xsl:value-of select="@n"/>
-        </p>
+        </span>
     </xsl:template>
 
     <xsl:template match="//del">

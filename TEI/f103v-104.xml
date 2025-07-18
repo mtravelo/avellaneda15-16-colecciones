@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+    <title xml:id="quijote_avellaneda15">Fragmento del Quijote de Avellaneda</title>
+    <author>Alonso Fernández de Avellaneda</author>
+    <editor resp="crítica">Florencio Sevilla Arroyo</editor>
+    <editor resp="digital">María Teresa Ravelo</editor>
+</titleStmt>
+<publicationStmt>
+  <publisher>Curso de edición digital, Competencias transversales para la digitalización del patrimonio textual</publisher>
+  <availability>
+  <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+  </availability>
+</publicationStmt>
+<sourceDesc>
+  <bibl>
+    <title>Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha, que contiene su tercera salida : y es la quinta parte de sus aventuras</title>
+    <author>Alonso Fernández de Avellaneda</author>
+    <publisher>Casa de Felipe Roberto</publisher>
+    <date>1614</date>
+    <pubPlace>Tarragona, España</pubPlace>
+    <objectIdentifier>
+      <institution>Biblioteca Nacional (España)</institution>
+      <idno>sig. R/32541</idno>
+  </objectIdentifier>
+  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="f103v"/>
+<head>Capitulo XV En el qve el soldado<lb/>
+<persName key="bracamonte">Antonio de Bracamonte</persName> da principio a su cuento del<lb/>
+<note>Rico desesperado</note>.</head>
+<p>En el ducado de <placeName key="brabante">Brabante</placeName> en <placeName key="flandes">Flandes</placeName> en vna<lb/>
+Ciudad llamada <placeName key="lovaina">Louayna</placeName>, principal vniuersi-<lb/>
+dad de aquellas prouincias, auia vn Cauallero<lb/>
+mancebo, llamado mosiur de <persName key="japelin">Iapelin</persName>, de edad<lb/>
+de veynte y cinco años, buen estudiante en am-<lb/>
+bos derechos ciuil y Canonico, y dotado tan<lb/>
+copiosamente de los bienes, que llaman de for-<lb/>
+tuna, que pocos auia en la Ciudad, que se le pu-<lb/>
+diesen igualar en riqueza, quedo el mancebo<lb/>
+por muerte de padre y madre, señor absoluto de<lb/>
+toda esta, y assi con la libertad y regalo (a las que<lb/>
+sacan a volar, y precipitarse mocedades prodi-<lb/>
+gas, con peligrosos pronosticos de infelices fi-<lb/>
+nes), començo a afloxar en el estudio y a andar<lb/>
+embuelto en mil generos de vicios, con otros<lb/>
+de su edad y partes, sin perder ocasion de com-<lb/>
+bites y borracheras, que en aquella tierra se vsan<lb/>
+mucho. Sucedio pues andando en estos passos,<lb/>
+que vn Domingo de Quaresma, dirigio a caso<lb/>
+los suyos, a oyr vn sermon en vn Templo de Pa-<lb/>
+dres de santo Domingo, por predicarle vn Re-<lb/></p>
+
+<pb n="f104r"/>
+<p>
+<pb n="f104r"/>ligioso eminente en dotrina y espiritu, donde ton-<lb/>
+candole Dios al libre y descuydado oyente en el<lb/>
+coraçon, con la fuerça y virtud de las palabras<lb/>
+del predicador, salio de la Iglesia trocado, de<lb/>
+suerte que començò a tratar consigo proprio<lb/>
+de dexar el mando, con toda su vanidad y pom-<lb/>
+pa, y entrarse en la infigne y graue Religion de<lb/>
+los Predicadores. Encargò en este presupuesto<lb/>
+toda su casa y hazienda, a vn pariente suyo, pa-<lb/>
+ra que se la adminastrase algunos, dias en que pen<lb/>
+saua hazer vna preciosa ausencia, con cargo de<lb/>
+que se diese fiel cuenta della, quando se la pidie-<lb/>
+se. Tras esto se fue a Santo Domingo, y hablan-<lb/>
+do con el Religioso predicador le descubrio su<lb/>
+pecho. En resolucion como era hombre de pren-<lb/>
+das singulares, y conocido por ellas de todos,<lb/>
+fue facil darle luego el habito, como en resolu-<lb/>
+cion se le dio en dicho Conuento. Viuio en el<lb/>
+con mucho gusto, y muestras de exemplar reli-<lb/>
+gioso por espacio de diez meses. Pero nuestro<lb/>
+General aduersario, (que anda dando bueltas,<lb/>
+como leon rabioso buscando a quien tragarse<lb/>
+como dize en no se que parte la Escritura) para<lb/>
+daño de su conciencia traxo a aquella Vniuersi<lb/>
+dad, dos amigos suyos, que auian estado ausentes<lb/>
+de <placeName key="lovaina">Louayna</placeName>, algunos meses no poco viciosos,<lb/>
+y aun sospechosos de la fe, (plaga que ha cundi<lb/>
+do no poco por nuestros pecados en aquellos<lb/>
+estados, y en los circunuezinos suyos) sabido<lb/>
+</p>
+</body>
+</text>
+</TEI>

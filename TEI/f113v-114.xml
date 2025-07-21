@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+    <title xml:id="quijote_avellaneda16">Fragmento del Quijote de Avellaneda</title>
+    <author>Alonso Fernández de Avellaneda</author>
+    <editor resp="crítica">Florencio Sevilla Arroyo</editor>
+    <editor resp="digital">María Teresa Ravelo</editor>
+</titleStmt>
+<publicationStmt>
+  <publisher>Curso de edición digital, Competencias transversales para la digitalización del patrimonio textual</publisher>
+  <availability>
+  <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+  </availability>
+</publicationStmt>
+<sourceDesc>
+  <bibl>
+    <title>Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha, que contiene su tercera salida : y es la quinta parte de sus aventuras</title>
+    <author>Alonso Fernández de Avellaneda</author>
+    <publisher>Casa de Felipe Roberto</publisher>
+    <date>1614</date>
+    <pubPlace>Tarragona, España</pubPlace>
+    <objectIdentifier>
+      <institution>Biblioteca Nacional (España)</institution>
+      <idno>sig. R/32541</idno>
+  </objectIdentifier>
+  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="f113v"/>
+<head>Capitulo XVI En el qve  
+<persName key="bracamonte">Bracamonte</persName> da fin al cuento del 
+<note xml:id="f113vnota1">Rico desesperado</note>.</head>
+<p>Estuuieron con atencion los Canonigos, y
+Jurados al cuento, y don Quixote aunque lo
+estuuo, daua de quando en quando assomos de
+querer salir con algo en contrapusicion de los
+malos consejos que los estudiantes dieron a</p>
+<pb n="f114r"/>
+<p><persName key="japelin">Iapelin</persName>
+ quando era nouicio, ya en abono de sa buena 
+ eleccion en auerse casado, con muger hermosa, 
+ y particularmente en loa de su valor, por
+auer pretendido seguir la milicia en prosecucion
+dela gouernacion de su tio, pero yuale a la mano
+a todo el venerable hermitaño, que le tenia al
+sado. Pero como no lo estaua al suyo
+<persName key="sancho">Sancho</persName>, no
+pudo obuiar a que no saliesse de traues, quando
+oyo la vellaqueria del soldado, y particularmente
+su goco estomago en no querer lleuar el 
+matalotaje que le dauan los criados, para acudir a
+las necestidades venideras, y assi dixo con vna
+colera donosa: juro a Dios y a esta Cruz que
+merecia el mmuy grandissimo vellaco mas palos,
+que tiene pelos mi rucio, y que si le tauiera aqus
+mese comiera a bocados: donde apte lio el muy
+grandissimo hideputa, ano enmar lo que se dañan,
+siendo verdad, que no esta esso orohibi do,
+no digo yo a los soldados y Reyes, pero ni a los
+mismos señores Caualleros andantes, queson lo
+mejor del mundo en mi anima que creo que ha
+de arder la suya en el iafi rno, mas por este 
+pecado, que por quantas cuenilladas ha dado a 
+Luteranos y moriseos: pero no me estanto, fuesse
+el muy folon tan malmitado, y tan poco qus
+llotrado : si comno vuesta mercea due, venia de
+Cambray, que juro a los años del Gigante Golias,
+que deue de ser essa la mas mala tierra del mundo,
+pues segun dizen por las calles y plagas,
+cos</p>
+<pb n="f114v"/>
+</body>
+</text>
+</TEI>
